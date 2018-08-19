@@ -40,6 +40,7 @@ h4 {
 }
 .navbar-brand {
     margin-top: 1.5rem;
+    
 }
 .bg-primary {
     color: #3f444a!important;
@@ -113,7 +114,7 @@ input[type=date], input[type=datetime-local], input[type=email], input[type=numb
     margin-bottom:2rem;
 }
 .head_title p{
-    width:75%;
+    width:15%;
     margin:0 auto;
     padding-bottom: 15px;
 }
