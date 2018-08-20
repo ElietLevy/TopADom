@@ -4,3 +4,15 @@
 	display: inline-block;
 	 margin: 0px 70px 0px 70px  
 	}
+
+
+.os li{
+	display: inline-block;
+	margin: 0px 10px 0px 0px;
+}
+
+.os {padding-top: 50px;	}
+
+.def_app{
+	font-size: 9em;
+}
