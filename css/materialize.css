@@ -7358,6 +7358,7 @@ input[type=range]:focus::-ms-fill-upper {
     width: 100%;
     background-size: cover;
     background-position: center;
+    padding: 50px;
 }
 
 .slider .slides li .caption {
