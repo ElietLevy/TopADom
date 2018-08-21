@@ -16,3 +16,8 @@
 .def_app{
 	font-size: 9em;
 }
+
+#annonce:hover, h4#annonce:hover{
+	background-color: #232931;
+	color: #f6f6f6;
+}
